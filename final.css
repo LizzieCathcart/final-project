@@ -1,0 +1,28 @@
+.grey-text {
+	color: #e62e00;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+}
+
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+	color: #ff471a;
+	font-style: italic;
+}
+
+h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+
+}
+
+.author {
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	text-align: right;
+}
